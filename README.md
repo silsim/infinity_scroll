@@ -1,1 +1,1 @@
-# infinity-scroll-
+# infinity_scroll
